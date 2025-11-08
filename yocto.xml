@@ -12,7 +12,7 @@
   <project name="meta-browser" remote="browser" revision="d3a5f63c385e1e621fa1fef975024f8622a535ea" dest-branch="master"/>
   <project name="meta-clang" remote="clang" revision="e7dceb1c92caf7f21ef1d7b49c85328c30cffd90" dest-branch="scarthgap"/>
   <project name="meta-openembedded" remote="oe" revision="a72010b414ee3d73888ac9cb4e310e8f05e13aea" dest-branch="scarthgap"/>
-  <project name="meta-rockchip" remote="github" revision="5404e63cab63b1a09138ad4b41a97e0e1efa7e54" dest-branch="scarthgap"/>
+  <project name="meta-rockchip" remote="github" dest-branch="scarthgap"/>
   <project name="poky" remote="yocto" revision="f450ddee3e1299dc80e1641c38bbd1699764ac87" dest-branch="scarthgap">
     <linkfile src="scripts" dest="scripts"/>
     <linkfile src="bitbake" dest="bitbake"/>

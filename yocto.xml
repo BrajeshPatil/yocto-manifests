@@ -21,6 +21,6 @@
     <linkfile src="oe-init-build-env" dest="oe-init-build-env"/>
   </project>
   <project name="yocto_build_conf" path="build/conf" remote="github" dest-branch="scarthgap">
-    <linkfile src="rockchip-rk3588-evb.conf" dest="build/conf/local.conf"/>
+    <linkfile src="rk3399-vaaman.conf" dest="build/conf/local.conf"/>
   </project>
 </manifest>

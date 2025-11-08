@@ -3,7 +3,7 @@
   <notice>Your sources have been sync'd successfully.</notice>
   <remote name="browser" fetch="https://github.com/OSSystems"/>
   <remote name="clang" fetch="https://github.com/kraj"/>
-  <remote name="github" fetch="https://github.com/JeffyCN/"/>
+  <remote name="github" fetch="https://github.com/brajeshPatil/"/>
   <remote name="oe" fetch="git://git.openembedded.org"/>
   <remote name="yocto" fetch="git://git.yoctoproject.org"/>
   

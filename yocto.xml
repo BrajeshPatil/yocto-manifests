@@ -20,7 +20,7 @@
     <linkfile src=".templateconf" dest=".templateconf"/>
     <linkfile src="oe-init-build-env" dest="oe-init-build-env"/>
   </project>
-  <project name="yocto-conf" path="build/conf" remote="github" revision="bc4574986613ad98b7e8d397c8f4ed27bae64ee8" dest-branch="scarthgap">
+  <project name="yocto_build_conf" path="build/conf" remote="github" dest-branch="scarthgap">
     <linkfile src="rockchip-rk3588-evb.conf" dest="build/conf/local.conf"/>
   </project>
 </manifest>
